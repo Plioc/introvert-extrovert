@@ -71,7 +71,7 @@ A análise mostrou que existem padrões consistentes que permitem distinguir int
 
 O projeto completo pode ser acessado neste link (via GitHub Pages):
 
-[🔗 https://github.com/Plioc/introvert-extrovert ]
+🔗 https://github.com/Plioc/introvert-extrovert 
 
 ---
 
